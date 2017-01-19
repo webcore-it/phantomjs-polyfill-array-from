@@ -1,0 +1,39 @@
+{
+  "name": "phantomjs-polyfill-array-from",
+  "version": "0.0.1",
+  "description": "Polyfill for Array.prototype.from",
+  "main": "array-from-polyfill.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:webcore-it/phantomjs-polyfill-array-from.git"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "PhantomJS",
+    "polyfill",
+    "PhantomJS polyfill",
+    "Array.prototype.from",
+    "Array.from",
+    "PhantomJS polyfill Array from"
+  ],
+  "author": "Tom Zanthoff <info@webcore-it.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webcore-it/phantomjs-polyfill-array-from/issues"
+  },
+  "homepage": "https://github.com/webcore-it/phantomjs-polyfill-array-from",
+
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^1.3.0",
+    "karma-chai": "^0.1.0",
+    "karma-cli": "^1.0.1",
+    "karma-mocha": "^1.3.0",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "karma-spec-reporter": "0.0.26",
+    "mocha": "^3.2.0",
+    "phantomjs": "^2.1.7"
+  }
+}
