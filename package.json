@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-polyfill-array-from",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Polyfill for Array.prototype.from",
   "main": "array-from-polyfill.js",
   "repository": {
