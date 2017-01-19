@@ -1,5 +1,8 @@
 # phantomjs-polyfill-array-from
+
 A PhantomJS polyfill for Array.prototype.from. Based on MDN specification.
+
+[![Build Status](https://travis-ci.org/webcore-it/phantomjs-polyfill-array-from.svg?branch=master)](https://travis-ci.org/webcore-it/phantomjs-polyfill-array-from)
 
 ## Installation
 
